@@ -1,0 +1,19 @@
+# Ignore artifacts:
+out
+public
+**/node_modules
+.next
+.husky
+*.html
+.eslintrc.json
+.prettierrc.js
+next-env.d.ts
+*.config.js
+tsconfig.json
+package-lock.json
+package.json
+.editorconfig
+.eslintignore
+.eslintrc.js
+.gitignore
+favicon.ico

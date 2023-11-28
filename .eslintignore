@@ -1,0 +1,9 @@
+node_modules
+.next
+out
+storybook-static
+build
+.vercel
+.husky
+.github
+.editorconfig

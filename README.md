@@ -1,4 +1,4 @@
-## Next.js の App Router 使って i18n化するサンプル
+## Next.js + TypeScript の App Router 使って i18n化するサンプル
 
 ## 使い方
 
